@@ -1,4 +1,8 @@
 cordsuit
 ========
 
-A care home for my elderly Cord Suit website (live since 1997)
+A care home for my elderly Silver Jews website (live since 1997)
+
+* [The Corduroy Suit](http://www.weeblackskelf.co.uk/cordsuit/)
+
+Gradually, I will migrate off the Tavi Wiki implementation into GitHub pages...
