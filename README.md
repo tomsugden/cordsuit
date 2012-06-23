@@ -1,7 +1,7 @@
 cordsuit
 ========
 
-A care home for my elderly Silver Jews website (live since 1997)
+A care home for my elderly Silver Jews website (established 1997)
 
 * [The Corduroy Suit](http://www.weeblackskelf.co.uk/cordsuit/)
 
