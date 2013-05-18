@@ -17,7 +17,8 @@ with a bloody knife in my hand"
 by then having absently wandered  
 one hundred yards from the house  
 while still seated in this chair  
-with my eyes closed.It is a certain hill  
+with my eyes closed.
+It is a certain hill  
 the one I imagine when I hear the word "hill"  
 and if the apocalypse turns out  
 to be a world-wide nervous breakdown  
