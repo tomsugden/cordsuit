@@ -4,8 +4,6 @@ Bibliography
 Poetry Books
 ------------
 
-== Poetry ==||{B}Title||{B}Edition||{B}Publisher||{B}Year||||((
-
 - [Actual Air](actual-air.md), hardback published by Drag City in 2003
 - [Actual Air](actual-air.md), paperback published by Open City in 1999
 

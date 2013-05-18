@@ -13,45 +13,45 @@ Details
 Contents
 --------
 
-Snow
-Classic Water
-Civics
-Governors on Sominex
-The Spine of the Snowman
-The Coahoma County Wind Cults
-Imagining Defeat
-Tableau Through Shattered Monocle
-If There Was a Book About This Hallway
-Narrated by a Committee
-Cassette County
-World: Series
-Tulsa
-Community College in the Rain
-The Charm of 5:30
-The Moon2.
-From Cantos for James Michener: Part II
-New York, New York
-The Night Nurse Essays
-From "Guide to the Graves of British Actors"
-Serenade for a Wealthy Widow
-The Homeowner's Prayer
-From His Bed in the Capital City
-Nervous Ashers
-April 13th, 1865
-[Self Portrait at 28](/poems/self-portrait-at-28.md)
-From Cantos for James Michener: Part I
-Coral Gables
-The New Idea
-How I Met Your Mother
-They Don't Acknowledge the Letter C
-Democratic Vistas
-Piano and Scene
-Of Things Found Where They Are Not Supposed To Be
-A Letter from Isaac Asimov to His Wife Janet, Written On His Deathbed
-Virginia Mines: The Mascara Series
-Now II
-War in Apartment 1812
-The Double Bell of Heat 
+- Snow
+- Classic Water
+- Civics
+- Governors on Sominex
+- The Spine of the Snowman
+- The Coahoma County Wind Cults
+- Imagining Defeat
+- Tableau Through Shattered Monocle
+- If There Was a Book About This Hallway
+- Narrated by a Committee
+- Cassette County
+- World: Series
+- Tulsa
+- Community College in the Rain
+- The Charm of 5:30
+- The Moon2.
+- From Cantos for James Michener: Part II
+- New York, New York
+- The Night Nurse Essays
+- From "Guide to the Graves of British Actors"
+- Serenade for a Wealthy Widow
+- The Homeowner's Prayer
+- From His Bed in the Capital City
+- Nervous Ashers
+- April 13th, 1865
+- [Self Portrait at 28](/poems/self-portrait-at-28.md)
+- From Cantos for James Michener: Part I
+- Coral Gables
+- The New Idea
+- How I Met Your Mother
+- They Don't Acknowledge the Letter C
+- Democratic Vistas
+- Piano and Scene
+- Of Things Found Where They Are Not Supposed To Be
+- A Letter from Isaac Asimov to His Wife Janet, Written On His Deathbed
+- Virginia Mines: The Mascara Series
+- Now II
+- War in Apartment 1812
+- The Double Bell of Heat 
 
 Quotes
 ------
