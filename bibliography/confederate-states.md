@@ -1,7 +1,7 @@
 Confederate States of America, Department of State, Montgomery.....18'b
 =======================================================================
 
-By David Berman
+_By David Berman_
 
 This morning I had a yard sale to organize.
 Motor court ashtrays and cub scout trophies,
