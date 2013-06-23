@@ -1,5 +1,7 @@
-The Corduroy Suit
-=================
+---
+title: The Corduroy Suit
+layout: home
+---
 
 The Corduroy Suit is a digital archive for the [Silver Jews][1], an American band formed in 1989 by [David Berman][2] along with [Stephen Malkmus][3] and [Bob Nastanovich][4].
 
@@ -7,6 +9,20 @@ The Corduroy Suit is a digital archive for the [Silver Jews][1], an American ban
 [2]: http://en.wikipedia.org/wiki/David_Berman_(musician)
 [3]: http://en.wikipedia.org/wiki/Stephen_Malkmus
 [4]: http://en.wikipedia.org/wiki/Bob_Nastanovich
+
+Contents
+--------
+
+1. [Articles](articles)
+1. [Bibliography](bibliography)
+1. [Discography](discography)
+1. [Drawings](drawings)
+1. [Gigs](gigs)
+1. [News](news)
+1. [Photos](photos)
+1. [Poems](poems)
+1. [Songs](songs)
+1. [Tablature](tablature)
 
 About this Archive
 ------------------
