@@ -24,6 +24,6 @@ Contents
 About this Archive
 ------------------
 
-I created the original Corduroy Suit website as a student back in 1997. It was quite popular amongst fans of the Silver Jews for some years. After a decade, I remade the site as a wiki, so that visitors could edit the content themselves. It grew nicely, but got spammed from time to time. I'm now slowly converting the wiki into a [GitHub Pages](http://pages.github.com) site, to avoid spammers and make the data available to anyone who cares to use it.
+I made the Corduroy Suit website as a student in 1997. It become quite popular amongst fans of the Silver Jews. Now the content has been converted to [Markdown](http://en.wikipedia.org/wiki/Markdown) format and moved to GitHub for posterity.
 
-Thanks to the following people for contributions to the archive in the past: Jason Benjamin, David Berman, Vassilis Bibas, Travis Bursik, Kody Ford, Peter Jenks, Adalena Kavanagh, Stephen McRobbie, Katrina Mitchell, Alex Parish, Gate Pratt, Omri Rosen, Justin Taylor, David Todd, Ryan Walsh and David Weintraub. If there is anyone except me in the intersection of Silver Jews fan and GitHub programmer, feel free to send a [pull-request](https://help.github.com/articles/using-pull-requests)!
+Thanks to the following people for contributions in the past: Jason Benjamin, David Berman, Vassilis Bibas, Travis Bursik, Kody Ford, Peter Jenks, Adalena Kavanagh, Stephen McRobbie, Katrina Mitchell, Alex Parish, Gate Pratt, Omri Rosen, Justin Taylor, David Todd, Ryan Walsh and David Weintraub.
