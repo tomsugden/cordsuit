@@ -5,9 +5,7 @@
 </head>
 <body>
   <header>
-    {% for category in page.categories %}
-      <a href="{{ category }}">{{ category }}</a>&nbsp;&nbsp;
-    {% endfor %}
+    <a href="{{ site.url }}{{ page.category }}">{{ page.category }}</a>
   </header>
   <section>
     <h1>{{ page.title }}</h1>

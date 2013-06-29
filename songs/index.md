@@ -4,8 +4,7 @@ layout: home
 ---
 
 {% for p in site.pages %}
-{{ p.title }} - {{ p.date }}
-  {% if p.category == 'songs' %}
-- [{{ p.title }}]({{ p.url }})
-  {% endif %}
+{% if p.category == 'songs' %}
+- [{{ p.title }}]({{ site.url }}{{ p.url }})
+{% endif %}
 {% endfor %}
