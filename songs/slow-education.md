@@ -1,5 +1,8 @@
 ---
 title: Slow Education
+type: song
+appears-on:
+  - Bright Flight
 layout: song
 ---
 
@@ -8,7 +11,7 @@ Since then, it's been a slow education
 And you got that one idea again
 The one about dying.
 
-Chorus: 
+_Chorus:_
 Oh oh oh I'm lightning
 Oh oh oh I'm rain
 Oh oh oh it's frightening
@@ -21,5 +24,3 @@ Everybody's going down on themselves
 No pardon me's or fare thee wells in the end
 
 (Chorus)
-
-© D.C. Berman, Civil Jar Music

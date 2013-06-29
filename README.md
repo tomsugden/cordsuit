@@ -11,6 +11,6 @@ The Corduroy Suit is a digital archive for the [Silver Jews][1], an American ban
 About this Archive
 ------------------
 
-I made the Corduroy Suit website as a student in 1997. It become quite popular amongst fans of the Silver Jews for some years. Now the content has been converted to [Markdown](http://en.wikipedia.org/wiki/Markdown) format and moved into this GitHub repository for posterity.
+The Corduroy Suit website was made in 1997. Now the content has been converted to [Markdown](http://en.wikipedia.org/wiki/Markdown) and moved into this GitHub repository for posterity.
 
 Thanks to the following people for contributions in the past: Jason Benjamin, David Berman, Vassilis Bibas, Travis Bursik, Kody Ford, Peter Jenks, Adalena Kavanagh, Stephen McRobbie, Katrina Mitchell, Alex Parish, Gate Pratt, Omri Rosen, Justin Taylor, David Todd, Ryan Walsh and David Weintraub.

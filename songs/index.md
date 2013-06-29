@@ -4,7 +4,8 @@ layout: home
 ---
 
 {% for p in pages %}
-  {% if p.layout == 'song' %}
+- [{{ p.title }}]({{ p.url }})
+  {% if p.type == 'song' %}
 - [{{ p.title }}]({{ p.url }})
   {% endif %}
 {% endfor %}
