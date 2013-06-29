@@ -1,6 +1,6 @@
 ---
 title: Slow Education
-type: song
+category: songs
 appears-on:
   - Bright Flight
 layout: song
