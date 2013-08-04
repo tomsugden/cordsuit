@@ -9,7 +9,7 @@ layout: plain
 <ul>
 {% for p in site.pages %}
   {% if p.category == page.category and p.title != page.title %}
-    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    <li><a href="{{ site.url}}{{ p.url }}">{{ p.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -19,7 +19,7 @@ layout: plain
 <ul>
 {% for p in site.pages %}
   {% if p.category == 'poems' and p.layout != 'category' %}
-    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    <li><a href="{{ site.url}}{{ p.url }}">{{ p.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -29,7 +29,7 @@ layout: plain
 <ul>
 {% for p in site.pages %}
   {% if p.category == 'writing' and p.layout != 'cateogry' %}
-    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    <li><a href="{{ site.url}}{{ p.url }}">{{ p.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
