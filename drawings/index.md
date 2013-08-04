@@ -1,7 +1,7 @@
 ---
 title: Drawings
 category: drawings
-layout: category
+layout: article
 ---
 
 ![Andy William Kyle Doug](andy-william-kyle-doug.gif)
