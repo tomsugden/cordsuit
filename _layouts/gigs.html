@@ -16,9 +16,9 @@
     {% for p in site.pages %}
       {% if p.category == 'gigs' %}
         <tr>
-          <td><a href="{{ p.url }}">{{ p.venue }}</a></td>
-          <td><a href="{{ p.url }}">{{ p.location }}</a></td>
-          <td><a href="{{ p.url }}">{{ p.date }}</a></td>
+          <td><a href="{{ site.url }}/{{ p.url }}">{{ p.venue }}</a></td>
+          <td><a href="{{ site.url }}/{{ p.url }}">{{ p.location }}</a></td>
+          <td><a href="{{ site.url }}/{{ p.url }}">{{ p.date }}</a></td>
         </tr>
       {% endif %}
     {% endfor %}

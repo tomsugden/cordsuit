@@ -16,7 +16,7 @@
     {% for p in site.pages %}
       {% if p.category == page.category %}
         <tr>
-          <td><a href="{{ p.url }}">{{ p.title }}</a></td>
+          <td><a href="{{ site.url }}/{{ p.url }}">{{ p.title }}</a></td>
           <td>
             {% if p.author.name %}
               {{ p.author.name }}
