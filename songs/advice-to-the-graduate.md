@@ -25,4 +25,8 @@ now you watch the sun rise through a rifle sight.
 Well don't believe in people who say it's all been done,  
 they have time to talk because their race is run.  
 So get in some licks and hold your head up  
-& soon you'll be drinking from that crystal cup. (Repeat chorus) Good morning to the new world.......
+& soon you'll be drinking from that crystal cup. 
+
+(Repeat chorus) 
+
+Good morning to the new world.......
