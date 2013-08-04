@@ -1,7 +1,7 @@
-The Corduroy Suit
-=================
+The Cord Suit
+=============
 
-The Corduroy Suit is a digital archive for the [Silver Jews][1], an American band formed in 1989 by [David Berman][2] along with [Stephen Malkmus][3] and [Bob Nastanovich][4].
+The Cord Suit is a digital archive for the [Silver Jews][1], an American band formed in 1989 by [David Berman][2] along with [Stephen Malkmus][3] and [Bob Nastanovich][4].
 
 [1]: http://en.wikipedia.org/wiki/Silver_Jews
 [2]: http://en.wikipedia.org/wiki/David_Berman_(musician)
