@@ -10,16 +10,17 @@ Released in 1994 as an LP and CD on Drag City (DC55) in America and Domino (WIG1
 
 ## Tracklisting
 
-- [Introduction II](../songs/introduction-ii.html)
-- [Trains Across the Sea](../songs/trains-across-the-sea.html)
-#The Moon is the Number 18- [Advice to the Graduate](../songs/advice-to-the-graduate.html)
-- [Tide to the Oceans](../songs/tide-to-the-oceans.html)
-- [Pan-American Blues](../songs/panamerican-blues.html)
-- [New Orleans](../songs/new-orleans.html)
-- [The Country Diary of a Subway Conductor](../songs/the-country-diary-of-a-subway-conductor.html)
-- [Living Waters](../songs/living-waters.html)
-- [Rebel Jew](../songs/rebel-jew.html)
-#The Silver Pageant
+1. [Introduction II](../songs/introduction-ii.html)
+2. [Trains Across the Sea](../songs/trains-across-the-sea.html)
+3. The Moon is the Number 18
+4. [Advice to the Graduate](../songs/advice-to-the-graduate.html)
+5. [Tide to the Oceans](../songs/tide-to-the-oceans.html)
+6. [Pan-American Blues](../songs/panamerican-blues.html)
+7. [New Orleans](../songs/new-orleans.html)
+8. [The Country Diary of a Subway Conductor](../songs/the-country-diary-of-a-subway-conductor.html)
+9. [Living Waters](../songs/living-waters.html)
+10. [Rebel Jew](../songs/rebel-jew.html)
+11. The Silver Pageant
 
 ## Credits
 
