@@ -23,7 +23,6 @@ category: gigs
 layout: gig
 ---
 
-The order is wrong.
+## Videos
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/p67JH4wCQy4" frameborder="0" allowfullscreen></iframe>
-
+- [Punks in the Beerlight](https://www.youtube.com/watch?v=p67JH4wCQy4)
