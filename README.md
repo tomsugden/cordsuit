@@ -8,9 +8,4 @@ The Corduroy Suit is a digital archive for the [Silver Jews][1], an American ban
 [3]: http://en.wikipedia.org/wiki/Stephen_Malkmus
 [4]: http://en.wikipedia.org/wiki/Bob_Nastanovich
 
-About this Archive
-------------------
-
-The Corduroy Suit website was made in 1997. Now the content has been converted to [Markdown](http://en.wikipedia.org/wiki/Markdown) and moved into this GitHub repository for posterity.
-
-Thanks to the following people for contributions in the past: Jason Benjamin, David Berman, Vassilis Bibas, Travis Bursik, Kody Ford, Peter Jenks, Adalena Kavanagh, Stephen McRobbie, Katrina Mitchell, Alex Parish, Gate Pratt, Omri Rosen, Justin Taylor, David Todd, Ryan Walsh and David Weintraub.
+The Cord Suit website started in 1997. Now the content has been moved into this GitHub repository for posterity. Many thanks to the following people for contributions: Jason Benjamin, David Berman, Vassilis Bibas, Travis Bursik, Kody Ford, Peter Jenks, Adalena Kavanagh, Stephen McRobbie, Katrina Mitchell, Alex Parish, Gate Pratt, Omri Rosen, Justin Taylor, David Todd, Ryan Walsh and David Weintraub.

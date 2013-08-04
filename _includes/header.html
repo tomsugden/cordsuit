@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ site.title }} - {{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.url }}/css/cordsuit.css">
+</head>
+<body>
+  <header class="navbar container">
+    <hgroup class="clearfix">
+      <h1>Cord Suit</h1>
+      <h2>Silver Jews Archive</h2>
+    </hgroup>
+    <nav>
+      <ul class="nav">
+        {% for n in site.nav %}
+          <li class="{% if page.category == n %}selected{% endif %}">
+            <a href="{{ site.url }}/{{ n }}">{{ n }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+  <div role="main" class="container content">

@@ -1,0 +1,33 @@
+{% include header.html %}
+
+<h1>{{ page.title}}</h1>
+
+{% if page.subtitle %}
+  <h2>{{ page.subtitle }}</h2>
+{% endif %}
+
+{% if page.author or page.source or page.date %}
+  <p>
+
+    {% if page.author.url %}
+      By <a href="{{ page.author.url }}">{{ page.author.name }}</a>.
+    {% elsif page.author.name %}
+      By {{ page.author.name }}.
+    {% endif %}
+
+    {% if page.source.url %}
+      Originally appeared in <a href="{{ page.source.url }}">{{ page.source.name }}</a>.
+    {% elsif page.source.name %}
+      Originally appeared in {{ page.source.name }}.
+    {% endif %}
+
+    {% if page.date %}
+      {{ page.date }}.
+    {% endif %}
+
+  </p>
+{% endif %}
+
+{{ content }}
+
+{% include footer.html %}

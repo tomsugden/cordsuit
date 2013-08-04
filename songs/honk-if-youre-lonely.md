@@ -1,0 +1,21 @@
+---
+title: "Honk If You're Lonely"
+category: songs
+layout: article
+---
+
+Radio's on, feeling all right  
+Cruising the strip on a Saturday night.  
+I smile and I wave and I hide all my pain  
+but the sign on my bumper gives me away: Chorus::Honk if you're lonely tonight:If you need a friend to get through the night:A toot on your horn, a flash of your brights:Honk if you're lonely tonight. I know a honky-tonk where we can go.  
+A booth in the back with the lights way down low.  
+The jukebox is playing a sad melody  
+for heart-broken lovers just like you and me. We'll laugh and we'll flirt and we'll dance every dance  
+and before the night's over we'll make romance.  
+The morning will find us with a smile on our face  
+and we'll be together in a lover's embrace. (chorus) I know it seems sad to be so damn blue  
+but there's always the chance that you'll meet someone new.  
+I know that somewhere waiting for me  
+is a sad lonely lover with a bumper that reads: (chorus) © D.C.
+
+Berman and Gate Pratt

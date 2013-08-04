@@ -1,10 +1,5 @@
 ---
 title: Songs
-layout: home
+category: songs
+layout: category
 ---
-
-{% for p in site.pages %}
-{% if p.category == 'songs' %}
-- [{{ p.title }}]({{ site.url }}{{ p.url }})
-{% endif %}
-{% endfor %}

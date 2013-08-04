@@ -1,0 +1,37 @@
+{% include header.html %}
+
+<h1>{{ page.venue }}</h1>
+
+<h2>{{ page.location }}, {{ page.date }}</h2>
+
+{% if page.source %}
+<p>
+  {% if page.source.url %}
+    From <a href="{{ page.source.url }}">{{ page.source.name }}</a>.
+  {% elsif page.source.name %}
+    From {{ page.source.name }}.
+  {% endif %}
+</p>
+{% endif %}
+
+{% if page.setlist %}
+  <h2>Setlist</h2>
+  <ol>
+  {% for song in page.setlist %}
+    <li>{{ song }}</li>
+  {% endfor %}
+  </ol>
+{% endif %}
+
+{% if page.encore %}
+  <h3>Encore</h3>
+  <ol>
+  {% for song in page.encore %}
+    <li>{{ song }}</li>
+  {% endfor %}
+  </ol>
+{% endif %}
+
+{{ content }}
+
+{% include footer.html %}

@@ -1,16 +1,35 @@
-Bibliography
-============
+---
+title: Bibliography
+category: bibliography
+layout: plain
+---
 
-Poetry Books
-------------
+## Books
 
-- [Actual Air](actual-air.md), hardback published by Drag City in 2003
-- [Actual Air](actual-air.md), paperback published by Open City in 1999
+<ul>
+{% for p in site.pages %}
+  {% if p.category == page.category and p.title != page.title %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
 
-Miscellaneous Writing
----------------------
+## Poems
 
-- [Clip-On Tie: The Diary of a New York Art Museum Security Guard](clip-on-tie.md) published in Baffler #6
-- [Confederate States of America, Department of State, Montgomery.....18'b](confederate-states.md) published in Flygirl #8
-- [The Summer Before The Night Ecstasy Became Illegal In The State Of Texas](the-summer-before.md)
-- [Nervous Ashers: The Legend of the Silver Jews](nervous-ashers.md)
+<ul>
+{% for p in site.pages %}
+  {% if p.category == 'poems' and p.layout != 'category' %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+## Misc. Writing
+
+<ul>
+{% for p in site.pages %}
+  {% if p.category == 'writing' and p.layout != 'cateogry' %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>

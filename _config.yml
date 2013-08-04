@@ -1,1 +1,12 @@
 url: http://tomsugden.github.io/cordsuit/
+
+exclude: _scripts, _data
+
+nav:
+  - articles
+  - bibliography
+  - discography
+  - drawings
+  - gigs
+  - photos
+  - songs

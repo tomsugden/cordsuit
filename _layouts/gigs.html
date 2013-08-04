@@ -1,0 +1,28 @@
+{% include header.html %}
+
+<h1>{{ page.title}}</h1>
+
+{{ content }}
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%">Venue</th>
+      <th width="30%">Location</th>
+      <th width="20%">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for p in site.pages %}
+      {% if p.category == 'gigs' %}
+        <tr>
+          <td><a href="{{ p.url }}">{{ p.venue }}</a></td>
+          <td><a href="{{ p.url }}">{{ p.location }}</a></td>
+          <td><a href="{{ p.url }}">{{ p.date }}</a></td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+
+{% include footer.html %}

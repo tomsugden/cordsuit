@@ -1,0 +1,6 @@
+Welcome to the Corduroy Suit
+============================
+
+This is a digital archive for the [Silver Jews](http://en.wikipedia.org/wiki/Silver_Jews), an American band formed in 1989 by [David Berman](http://en.wikipedia.org/wiki/David_Berman_(musician)) along with [Stephen Malkmus](http://en.wikipedia.org/wiki/Stephen_Malkmus) and [Bob Nastanovich](http://en.wikipedia.org/wiki/Bob_Nastanovich).
+
+This website is now hosted on [GitHub](http://ww.github.com), the social coding platform, which means that tech-savvy visitors can edit and improve the content by sending [pull-requests](https://help.github.com/articles/using-pull-requests) to the [tomsugden/cordsuit](https://github.com/tomsugden/cordsuit) repository. In the beginning, this website was hand-crafted, then it was an [open wiki](http://en.wikipedia.org/wiki/Wiki) for about 10 years. There were many contributors over those years, including Jason Benjamin, David Berman, Vassilis Bibas, Travis Bursik, Kody Ford, Peter Jenks, Adalena Kavanagh, Katrina Mitchell, Alex Parish, Stephen Pastel, Gate Pratt, Omri Rosen, Justin Taylor, David Todd, Ryan Walsh and David Weintraub. 

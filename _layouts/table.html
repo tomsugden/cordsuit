@@ -1,0 +1,36 @@
+{% include header.html %}
+
+<h1>{{ page.title}}</h1>
+
+{{ content }}
+
+<table>
+  <thead>
+    <tr>
+      <th width="40%">Title</th>
+      <th width="30%">Author</th>
+      <th width="30%">Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for p in site.pages %}
+      {% if p.category == page.category %}
+        <tr>
+          <td><a href="{{ p.url }}">{{ p.title }}</a></td>
+          <td>
+            {% if p.author.name %}
+              {{ p.author.name }}
+            {% endif %}
+          </td>
+          <td>
+            {% if p.source.name %}
+              {{ p.source.name }}
+            {% endif %}
+          </td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+
+{% include footer.html %}

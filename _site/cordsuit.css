@@ -1,0 +1,70 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: rgba(184,172,51,0.08);
+}
+
+header {
+  background-color: rgb(189, 188, 161);
+  color: black;
+  padding: 8px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 24px;
+}
+
+header h1 {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  font-weight: solid;
+  line-height: 0.9;
+}
+
+nav {
+  position: absolute;
+  left: 124px;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  float: left;
+  list-style: none;
+  padding: 6px 8px 5px 8px;
+}
+
+nav li.selected {
+  border-bottom: solid 3px black;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 1.33;
+}
+
+div.content {
+  padding: 96px 0 96px 124px;
+  padding-left: 124px;
+}
+
+footer {
+  background-color: rgb(189, 188, 161);
+  color: black;
+  padding: 8px;
+  width: 100%;
+  height: 64px;
+}

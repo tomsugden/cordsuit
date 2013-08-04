@@ -1,0 +1,22 @@
+---
+title: Silver Jews, Naturally
+date: 5th October 1996
+category: articles
+layout: article
+source:
+  name: Melody Maker
+author:
+  name: Unknown
+---
+
+Silver Jews release a new album, "The Natural Bridge", on Domino on October 14 - and the advance tape has met with unanimous enthusiasm here at The Maker.
+
+On this occasion, leader David Berman is not joined by his regular partners Steve Malkmus and Bob Nastanovich, both also of Pavement, although the trio do intend to reunite for the next Silver Jews album. Berman explained: "We went in and started to record, and after two days I realised that it didn't sound the way I wanted it to. It wasn't their fault, but they weren't able to interpret the songs in the way I wanted. So I waited a few months and decided to use some other people. I think I got the results I wanted. "I guess when the last record came out, I was pleased that some people liked it, but I was a little disappointed that too much of the focus was on the fact that there were two members of Pavement on it. I had written all those songs. So I wanted to make a record by myself. "But actually, I'm recording again soon with Steve and Bob."
+
+Berman is coming to Britain this week for for two live dates, at London Filthy McNasty's in Amwell Street, Islington, (October 2) and Glasgow John Smith's Bookshop (4). However, he'll be reading his short stories, lyrics and poems rather than playing music. "I don't usually play live. I've always found it to be really unsatisfying," he told The Maker. "When I write a song and record it, that's the song, and I don't like there to be two or three versions of it existing. After I've recorded it, I usually never play it again. "I feel uncomfortable in the world of indie rock, but I'm realistic to know that that's where my music lands. I just have a lack of respect for the kind of music that's usually being made. I try to avoid having anything to do with that world, whether it means living out in the middle of nowhere where I do, or not playing in clubs where I would be totally sunk into that world. "So I thought I would do some readings because it would give me the chance to meet the people who buy the records, because I always want to do that - I like talking to people - but not have to play to the rules of a rock world that I don't particularly respect." 
+
+One of the highlights of the album is "Dallas", which tells the story of a traumatic episode from Berman's teenage years. "I was at high school in Dallas, and my first girlfriend dumped me," he explained. I went into a severe depression, and my father insisted that I go to a psychiatrist. I thought it was pretty normal what I was going through, but my father saw it as something dark and dangerous. "So he sent me to a psychiatrist who was an ordained Baptist minister, a race car driver and an ex-place kicker for an NFL football team. His best friend was John Oates, the dark-haired one of Hall & Oates. So I'd be sitting in there pouring my heart out to this guy, and there was this giant picture of John Oates over his desk! It gave me the creeps to be looking up at him, but it's an image that stuck with me. Although I've always done pretty good at what I've done in my life, I've always felt like I was fated to be in second place - like there was always a Daryl Hall over me, if only I could see who it was." 
+
+Another song, "Pet Politics", "came out of an art collaboration I did in Vienna with a friend of mine, a painter named Steve Keen (sic). You had to write a biography for the show, and I had written some fictitious things. I wrote that in 1982 I had gone to the Falklands War and been a mercenary helicopter pilot for the Argentines. Even though I would have been 15 at the time, everyone there believed it, and I think there was a new-found respect for me because of it. "Then I came home, and I started envisioning myself more as a war correspondent for a newspaper. I had just gotten a new dog called Jackson, and I imagined that he was with me in the Falklands and I lose him in the woods and I'm looking for him. The song kind of branched out from there." 
+
+As well as the next Silver Jews album, Berman is currently looking forward to a possible collaboration with one Dave Matthews. "The Dave Matthews Band are a Top 10 hippy band in America, like Hootie and the Blowfish. The guy lives in the same town as me, and one of my dreams is to record something with him, to see how that would sound. It would be very bizarre, I know."
