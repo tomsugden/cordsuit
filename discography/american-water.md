@@ -4,7 +4,7 @@ category: discography
 layout: article
 ---
 
-![american-water.png](american-water.png)
+![american-water.png](american-water.jpg)
 
 Released in 1998 as an LP and CD on Drag City (DC149) in America and Domino (WIG56) in Europe. 
 

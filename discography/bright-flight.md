@@ -4,7 +4,7 @@ category: discography
 layout: article
 ---
 
-![Bright Flight Sleeve](bright-flight.png)
+![Bright Flight Sleeve](bright-flight.jpg)
 
 Released in 2001 as an LP and CD on Drag City (DC215) in America and Domino (WIG106) in Europe. 
 

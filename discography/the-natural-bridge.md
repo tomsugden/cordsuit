@@ -4,21 +4,22 @@ category: discography
 layout: article
 ---
 
-![Sleeve](the-natural-bridge.png)
+![Sleeve](the-natural-bridge.jpg)
 
 Released in 1996 as an LP and CD on Drag City (DC101) in America and Domino (WIG28) in Europe. 
 
 ## Tracklisting
 
-- [How to Rent a Room](../songs/how-to-rent-a-room.html)
-- [Pet Politics](../songs/pet-politics.html)
-- [Black and Brown Blues](../songs/black-and-brown-blues.html)
-- [Ballad of Reverend War Character](../songs/ballad-of-reverend-war-character.html)
-#The Right to Remain Silent- [Dallas](../songs/dallas.html)
-- [Inside the Golden Days of Missing You](../songs/inside-the-golden-days-of-missing-you.html)
-- [Albemarle Station](../songs/albemarle-station.html)
-- [The Frontier Index](../songs/the-frontier-index.html)
-- [Pretty Eyes](../songs/pretty-eyes.html)
+1. [How to Rent a Room](../songs/how-to-rent-a-room.html)
+1. [Pet Politics](../songs/pet-politics.html)
+1. [Black and Brown Blues](../songs/black-and-brown-blues.html)
+1. [Ballad of Reverend War Character](../songs/ballad-of-reverend-war-character.html)
+1. The Right to Remain Silent
+1. [Dallas](../songs/dallas.html)
+1. [Inside the Golden Days of Missing You](../songs/inside-the-golden-days-of-missing-you.html)
+1. [Albemarle Station](../songs/albemarle-station.html)
+1. [The Frontier Index](../songs/the-frontier-index.html)
+1. [Pretty Eyes](../songs/pretty-eyes.html)
 
 ## Credits
 

@@ -4,12 +4,12 @@ category: discography
 layout: article
 ---
 
-![Sleeve](hot-as-hell-live-1993.png)
+![Sleeve](hot-as-hell-live-1993.jpg)
 
 Released in 1999 as a 7" and CD on Seanote (DC28). 
 
 ## Tracklisting
 
-- Cocksucker Blues
-- The Walnut Falcon
+1. Cocksucker Blues
+1. The Walnut Falcon
 

@@ -4,7 +4,7 @@ category: discography
 layout: article
 ---
 
-![Dime Map Sleeve](dime-map-of-the-reef.png)
+![Dime Map Sleeve](dime-map-of-the-reef.jpg)
 
 Released in 1993 as a 7" on Drag City (DC19). 
 

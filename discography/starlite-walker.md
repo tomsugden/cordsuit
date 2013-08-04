@@ -4,7 +4,7 @@ category: discography
 layout: article
 ---
 
-![Sleeve](starlite-walker.png)
+![Sleeve](starlite-walker.jpg)
 
 Released in 1994 as an LP and CD on Drag City (DC55) in America and Domino (WIG15) in Europe. 
 

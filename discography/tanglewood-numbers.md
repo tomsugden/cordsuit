@@ -4,7 +4,7 @@ category: discography
 layout: article
 ---
 
-![Tanglewood Numbers Sleeve](tanglewood-numbers.png)
+![Tanglewood Numbers Sleeve](tanglewood-numbers.jpg)
 
 Released on October 18th 2005 by Drag City on CD and LP. Catalogue number DC297. 
 

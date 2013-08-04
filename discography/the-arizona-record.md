@@ -4,7 +4,7 @@ category: discography
 layout: article
 ---
 
-![Sleeve](the-arizona-record.png)
+![Sleeve](the-arizona-record.jpg)
 
 Released in 1993 as a 12" and CD on Drag City (DC28). 
 
