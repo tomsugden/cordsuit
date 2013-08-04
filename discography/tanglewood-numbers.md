@@ -10,16 +10,16 @@ Released on October 18th 2005 by Drag City on CD and LP. Catalogue number DC297.
 
 ## Tracklisting
 
-- [Punks in the Beerlight](../songs/punks-in-the-beerlight.html)
-- [Sometimes a Pony Gets Depressed](../songs/sometimes-a-pony-gets-depressed.html)
-- [K-Hole](../songs/khole.html)
-- [Animal Shapes](../songs/animal-shapes.html)
-- [I'm Getting Back Into Getting Back Into You](../songs/im-getting-back-into-getting-back-into-you.html)
-- [How Can I Love You If You Won't Lie Down](../songs/how-can-i-love-you-if-you-wont-lie-down.html)
-- [The Poor, The Fair and The Good](../songs/the-poor-the-fair-and-the-good.html)
-- [Sleeping is the Only Love](../songs/sleeping-is-the-only-love.html)
-- [The Farmer's Hotel](../songs/the-farmers-hotel.html)
-- [There is a Place](../songs/there-is-a-place.html)
+1. [Punks in the Beerlight](../songs/punks-in-the-beerlight.html)
+2. [Sometimes a Pony Gets Depressed](../songs/sometimes-a-pony-gets-depressed.html)
+3. [K-Hole](../songs/khole.html)
+4. [Animal Shapes](../songs/animal-shapes.html)
+5. [I'm Getting Back Into Getting Back Into You](../songs/im-getting-back-into-getting-back-into-you.html)
+6. [How Can I Love You If You Won't Lie Down](../songs/how-can-i-love-you-if-you-wont-lie-down.html)
+7. [The Poor, The Fair and The Good](../songs/the-poor-the-fair-and-the-good.html)
+8. [Sleeping is the Only Love](../songs/sleeping-is-the-only-love.html)
+9. [The Farmer's Hotel](../songs/the-farmers-hotel.html)
+10. [There is a Place](../songs/there-is-a-place.html)
 
 ## Credits
 
