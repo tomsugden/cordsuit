@@ -118,7 +118,9 @@ var separateMergedParagraphs = function(body) {
     )
     .replace(
       /\ [A-Z]*[a-bd-z]+[A-Z]/g, 
-      function(c){ return c.substring(0, c.length - 1) + "\n\n" + c.substring(c.length-1) } //c.split("").join("\n\n") }
+      function(c){ 
+	      return c.substring(0, c.length - 1) + "\n\n" + c.substring(c.length-1) 
+	    }
     )
     .replace(
       /\.[0-9]+/g, 
