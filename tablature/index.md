@@ -1,5 +1,5 @@
 ---
 title: Tablature
-category: index
+category: tablature
 layout: category
 ---
