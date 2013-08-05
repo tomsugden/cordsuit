@@ -4,9 +4,10 @@ category: articles
 layout: article
 author:
   name: Adalena Kavanagh
-  url: mailto:5redpandas@gmail.com
+  url: http://5redpandas.tumblr.com/
 source:
   name: Tally Ho Sulky
+  url: http://5redpandas.tumblr.com/
 date: October 1997
 ---
 
