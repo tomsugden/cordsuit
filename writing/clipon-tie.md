@@ -5,6 +5,8 @@ category: writing
 layout: article
 source:
   name: Baffler #6
+author:
+  name: David Berman
 ---
 
 > "If there's ever a problem, I film it and it's no longer a problem. It's a film" - Andy Warhol 

@@ -1,7 +1,8 @@
 ---
 title: Nervous Ashers
 subtitle: The Legend of the Silver Jews
-author: David Berman
+author: 
+  name: David Berman
 category: writing
 layout: article
 ---
