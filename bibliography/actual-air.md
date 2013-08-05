@@ -4,7 +4,7 @@ category: bibliography
 layout: article
 ---
 
-![Actual Air Book](actual-air.png)
+![Actual Air Book](actual-air.jpg)
 
 ISBN: 1-890447-04-8 
 
