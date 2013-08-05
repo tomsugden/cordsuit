@@ -1,7 +1,7 @@
 ---
 title: "We Are Real"
 category: songs
-layout: article
+layout: song
 ---
 
 Up the hill past 694, at the stone wall make a left,  

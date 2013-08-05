@@ -1,7 +1,7 @@
 ---
 title: "There is a Place"
 category: songs
-layout: article
+layout: song
 ---
 
 there is a place past the blues I never want to see again.  

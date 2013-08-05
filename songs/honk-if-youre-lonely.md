@@ -1,7 +1,7 @@
 ---
 title: "Honk If You're Lonely"
 category: songs
-layout: article
+layout: song
 ---
 
 Radio's on, feeling all right  

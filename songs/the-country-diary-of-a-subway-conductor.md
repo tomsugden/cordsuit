@@ -1,7 +1,7 @@
 ---
 title: "The Country Diary of a Subway Conductor"
 category: songs
-layout: article
+layout: song
 ---
 
 "O get him out of there! " What if it cost 25c  

@@ -1,7 +1,7 @@
 ---
 title: "Death of an Heir of Sorrows"
 category: songs
-layout: article
+layout: song
 ---
 
 I wish I lived in the Power and the Light  

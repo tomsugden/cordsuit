@@ -1,7 +1,7 @@
 ---
 title: "How Can I Love You If You Won't Lie Down"
 category: songs
-layout: article
+layout: song
 ---
 
 fast cars,  

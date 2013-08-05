@@ -1,7 +1,7 @@
 ---
 title: "Pan-American Blues"
 category: songs
-layout: article
+layout: song
 ---
 
 a fifth on decoration day for the doctor  

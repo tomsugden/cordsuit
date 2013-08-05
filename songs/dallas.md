@@ -1,7 +1,7 @@
 ---
 title: "Dallas"
 category: songs
-layout: article
+layout: song
 ---
 
 I passed out on the fourteenth floor  

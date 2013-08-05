@@ -1,7 +1,7 @@
 ---
 title: "Black and Brown Blues"
 category: songs
-layout: article
+layout: song
 ---
 
 Baby let's get dressed up  

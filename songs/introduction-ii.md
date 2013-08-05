@@ -1,7 +1,7 @@
 ---
 title: "Introduction II"
 category: songs
-layout: article
+layout: song
 ---
 
 Hello, my friends  

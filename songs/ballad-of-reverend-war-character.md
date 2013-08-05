@@ -1,7 +1,7 @@
 ---
 title: "Ballad of Reverend War Character"
 category: songs
-layout: article
+layout: song
 ---
 
 Miss Mary Jane measures rain in a cracked cup on the sill  

@@ -1,7 +1,7 @@
 ---
 title: "The Frontier Index"
 category: songs
-layout: article
+layout: song
 ---
 
 Of all the people I knew  

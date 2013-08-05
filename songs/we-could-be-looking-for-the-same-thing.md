@@ -1,7 +1,7 @@
 ---
 title: "We Could Be Looking For The Same Thing"
 category: songs
-layout: article
+layout: song
 ---
 
 Way way out past where the sidewalks disappear  

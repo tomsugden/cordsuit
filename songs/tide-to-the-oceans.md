@@ -1,7 +1,7 @@
 ---
 title: "Tide to the Oceans"
 category: songs
-layout: article
+layout: song
 ---
 
 Tide to the oceans  

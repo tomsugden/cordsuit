@@ -1,7 +1,7 @@
 ---
 title: "Let's Not and Say We Did"
 category: songs
-layout: article
+layout: song
 ---
 
 Let's go hunting blackbirds, let's throw snowballs from the bridge  

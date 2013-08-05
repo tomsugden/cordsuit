@@ -1,7 +1,7 @@
 ---
 title: "Strange Victory, Strange Defeat"
 category: songs
-layout: article
+layout: song
 ---
 
 Squirrels imported from Connecticut  

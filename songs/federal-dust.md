@@ -1,7 +1,7 @@
 ---
 title: "Federal Dust"
 category: songs
-layout: article
+layout: song
 ---
 
 They don't walk and they don't talk in Malibu.  

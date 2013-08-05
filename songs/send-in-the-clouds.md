@@ -1,7 +1,7 @@
 ---
 title: "Send in the Clouds"
 category: songs
-layout: article
+layout: song
 ---
 
 Send in the clouds. Bring down the rain.  

@@ -1,7 +1,7 @@
 ---
 title: "How to Rent a Room"
 category: songs
-layout: article
+layout: song
 ---
 
 No I don't really want to die  

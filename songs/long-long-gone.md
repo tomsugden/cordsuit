@@ -1,7 +1,7 @@
 ---
 title: "Long Long Gone"
 category: songs
-layout: article
+layout: song
 ---
 
 I never tried as hard I could.  

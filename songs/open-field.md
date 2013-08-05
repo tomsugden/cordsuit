@@ -1,7 +1,7 @@
 ---
 title: "Open Field"
 category: songs
-layout: article
+layout: song
 ---
 
 Open field with a window  

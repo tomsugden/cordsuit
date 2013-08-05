@@ -1,7 +1,7 @@
 ---
 title: "San Francisco B.C."
 category: songs
-layout: article
+layout: song
 ---
 
 Old San Francisco, San Francisco B.C.  

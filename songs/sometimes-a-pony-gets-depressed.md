@@ -1,7 +1,7 @@
 ---
 title: "Sometimes a Pony Gets Depressed"
 category: songs
-layout: article
+layout: song
 ---
 
 where does an animal sleep when the ground is wet?  

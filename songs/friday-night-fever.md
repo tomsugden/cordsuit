@@ -1,7 +1,7 @@
 ---
 title: "Friday Night Fever"
 category: songs
-layout: article
+layout: song
 ---
 
 I love the sound of a jukebox playing  

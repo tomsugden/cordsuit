@@ -1,7 +1,7 @@
 ---
 title: "My Pillow Is The Threshold"
 category: songs
-layout: article
+layout: song
 ---
 
 I take decaf coffee  

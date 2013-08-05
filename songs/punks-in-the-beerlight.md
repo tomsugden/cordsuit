@@ -1,7 +1,7 @@
 ---
 title: "Punks in the Beerlight"
 category: songs
-layout: article
+layout: song
 ---
 
 where's the paper bag that holds the liquor?  

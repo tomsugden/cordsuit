@@ -1,7 +1,7 @@
 ---
 title: "Party Barge"
 category: songs
-layout: article
+layout: song
 ---
 
 Father drove a steamroller  

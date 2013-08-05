@@ -1,7 +1,7 @@
 ---
 title: "Pet Politics"
 category: songs
-layout: article
+layout: song
 ---
 
 Guard my bed  

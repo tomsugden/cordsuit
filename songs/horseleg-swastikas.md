@@ -1,7 +1,7 @@
 ---
 title: "Horseleg Swastikas"
 category: songs
-layout: article
+layout: song
 ---
 
 I'm drunk on a couch in Nashville  

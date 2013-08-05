@@ -1,7 +1,7 @@
 ---
 title: "Buckingham Rabbit"
 category: songs
-layout: article
+layout: song
 ---
 
 Back then I had a Buckingham rabbit.  

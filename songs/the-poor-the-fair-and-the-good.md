@@ -1,7 +1,7 @@
 ---
 title: "The Poor, The Fair and The Good"
 category: songs
-layout: article
+layout: song
 ---
 
 the river winds round these little green hills,  

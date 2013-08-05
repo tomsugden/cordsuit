@@ -1,7 +1,7 @@
 ---
 title: "Animal Shapes"
 category: songs
-layout: article
+layout: song
 ---
 
 gold and green/red and blue.  

@@ -1,7 +1,7 @@
 ---
 title: "Smith &amp; Jones Forever"
 category: songs
-layout: article
+layout: song
 ---
 
 Are you honest when no one's looking?  

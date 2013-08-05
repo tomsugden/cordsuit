@@ -1,7 +1,7 @@
 ---
 title: "Room Games and Diamond Rain"
 category: songs
-layout: article
+layout: song
 ---
 
 I'm gonna love you for a hundred years.  

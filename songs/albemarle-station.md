@@ -1,7 +1,7 @@
 ---
 title: "Albemarle Station"
 category: songs
-layout: article
+layout: song
 ---
 
 Call me from Albemarle Station if you can  

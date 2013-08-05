@@ -1,7 +1,7 @@
 ---
 title: "I Remember Me"
 category: songs
-layout: article
+layout: song
 ---
 
 He almost walked into a wall  

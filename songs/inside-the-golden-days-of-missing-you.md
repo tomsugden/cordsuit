@@ -1,7 +1,7 @@
 ---
 title: "Inside the Golden Days of Missing You"
 category: songs
-layout: article
+layout: song
 ---
 
 Inside the golden days of missing you  

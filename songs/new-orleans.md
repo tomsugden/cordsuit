@@ -1,7 +1,7 @@
 ---
 title: "New Orleans"
 category: songs
-layout: article
+layout: song
 ---
 
 I'm scared (I swear) of you.  

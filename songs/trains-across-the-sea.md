@@ -1,7 +1,7 @@
 ---
 title: "Trains Across the Sea"
 category: songs
-layout: article
+layout: song
 ---
 
 Troubles, no troubles, on the line,  

@@ -1,7 +1,7 @@
 ---
 title: "I'm Getting Back Into Getting Back Into You"
 category: songs
-layout: article
+layout: song
 ---
 
 Baby won't you take this magnet and maybe put my picture back on the fridge.  

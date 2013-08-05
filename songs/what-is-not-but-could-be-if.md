@@ -1,7 +1,7 @@
 ---
 title: "What Is Not But Could Be If"
 category: songs
-layout: article
+layout: song
 ---
 
 What is not but could be if  

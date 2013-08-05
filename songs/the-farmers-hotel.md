@@ -1,7 +1,7 @@
 ---
 title: "The Farmer's Hotel"
 category: songs
-layout: article
+layout: song
 ---
 
 the lights went out in New York, then they went in Goshen.  

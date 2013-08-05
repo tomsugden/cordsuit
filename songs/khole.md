@@ -1,7 +1,7 @@
 ---
 title: "K-Hole"
 category: songs
-layout: article
+layout: song
 ---
 
 I've been living in a k-hole.  

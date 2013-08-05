@@ -1,7 +1,7 @@
 ---
 title: "I'm Gonna Love the Hell Out of You"
 category: songs
-layout: article
+layout: song
 ---
 
 I was 19, and dead from the neck up.  

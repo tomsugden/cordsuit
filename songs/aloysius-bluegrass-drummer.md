@@ -1,7 +1,7 @@
 ---
 title: "Aloysius, Bluegrass Drummer"
 category: songs
-layout: article
+layout: song
 ---
 
 Aloysius was a bluegrass drummer  

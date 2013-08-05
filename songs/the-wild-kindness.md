@@ -1,7 +1,7 @@
 ---
 title: "The Wild Kindness"
 category: songs
-layout: article
+layout: song
 ---
 
 I wrote a letter to a wildflower  

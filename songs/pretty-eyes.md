@@ -1,7 +1,7 @@
 ---
 title: "Pretty Eyes"
 category: songs
-layout: article
+layout: song
 ---
 
 Everybody wants perspective from a hill  

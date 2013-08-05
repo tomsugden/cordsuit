@@ -1,7 +1,7 @@
 ---
 title: "Sleeping is the Only Love"
 category: songs
-layout: article
+layout: song
 ---
 
 I heard they were taming the shrew.  

@@ -1,7 +1,7 @@
 ---
 title: "Walnut Falcon - Live 1990"
 category: songs
-layout: article
+layout: song
 ---
 
 On a snowy mountaintop  

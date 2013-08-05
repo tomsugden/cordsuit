@@ -1,7 +1,7 @@
 ---
 title: "People"
 category: songs
-layout: article
+layout: song
 ---
 
 Moments can be monuments to you  

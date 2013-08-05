@@ -1,7 +1,7 @@
 ---
 title: "Like like the the the Death"
 category: songs
-layout: article
+layout: song
 ---
 
 Like like the the the death  

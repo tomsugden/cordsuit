@@ -1,7 +1,7 @@
 ---
 title: "Suffering Jukebox"
 category: songs
-layout: article
+layout: song
 ---
 
 cranes on the downtown skyline is a sight to see for some  

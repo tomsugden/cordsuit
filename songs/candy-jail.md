@@ -1,7 +1,7 @@
 ---
 title: "Candy Jail"
 category: songs
-layout: article
+layout: song
 ---
 
 Pain works on a sliding scale  

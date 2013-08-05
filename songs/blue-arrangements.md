@@ -1,7 +1,7 @@
 ---
 title: "Blue Arrangements"
 category: songs
-layout: article
+layout: song
 ---
 
 I see you gracefully swimming with the country club women  

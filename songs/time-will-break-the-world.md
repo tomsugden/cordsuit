@@ -1,7 +1,7 @@
 ---
 title: "Time Will Break the World"
 category: songs
-layout: article
+layout: song
 ---
 
 The sun and the shutters and the sun shattered hair.  

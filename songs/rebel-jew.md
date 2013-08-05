@@ -1,7 +1,7 @@
 ---
 title: "Rebel Jew"
 category: songs
-layout: article
+layout: song
 ---
 
 In the times I dream of Jesus  

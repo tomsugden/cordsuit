@@ -1,7 +1,7 @@
 ---
 title: "Random Rules"
 category: songs
-layout: article
+layout: song
 ---
 
 In 1984 I was hospitalized for approaching perfection.  

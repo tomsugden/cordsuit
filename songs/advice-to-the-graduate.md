@@ -1,7 +1,7 @@
 ---
 title: "Advice to the Graduate"
 category: songs
-layout: article
+layout: song
 ---
 
 If you got a message  
