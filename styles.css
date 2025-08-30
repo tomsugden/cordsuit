@@ -21,7 +21,7 @@ header, main, footer {
 }
 
 header {
-  padding: 32px 0;
+  padding: 32px 0 0 0;
   border-bottom: 1px solid var(--primary);
 }
 
@@ -32,7 +32,7 @@ header > hgroup {
 header h1 {
   color: var(--primary);
   margin: 0;
-  padding: 0 10px 0 0;
+  padding: 0 24px 0 0;
   font-size: 32px;
   font-family: monospace;
   font-weight: normal;
@@ -69,7 +69,7 @@ header li.selected a {
 }
 
 main {
-  border-bottom: 3px solid var(--primary);
+  border-bottom: 1px solid var(--primary);
   padding-bottom: 32px;
   margin-bottom: 12px;
   line-height: 1.33;
@@ -78,6 +78,12 @@ main {
 
 main h1 {
   font-size: 2.5em;
+  font-weight: normal;
+}
+
+main h2 {
+  font-size: 1.5em;
+  font-weight: normal;
 }
 
 main a {
