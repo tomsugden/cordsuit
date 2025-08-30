@@ -1,65 +1,46 @@
+:root {
+  --bg: #ebede9;
+  --text: #232323;
+  --primary: #164000;
+  --secondary: #522915;
+  --highlight: #f9a602;
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: Arial, sans-serif;
+  background-color: var(--bg);
 }
 
-body {
-  border-top: solid 3px black;
-  /*border-bottom: solid 96px rgb(200,200,200);*/
-  padding-top: 6px;
-  /*padding-bottom: 64px;*/
-}
-
-.clearfix {
-  *zoom: 1;
-}
-
-.clearfix:before,
-.clearfix:after {
-  display: table;
-  content: "";
-}
-
-.clearfix:after {
-  clear: both;
-}
-
-.container {
+header, main, footer {
   width: 940px;
   margin-right: auto;
   margin-left: auto;
-  *zoom: 1;
-}
-
-.container:before,
-.container:after {
-  display: table;
-  content: "";
-}
-
-.container:after {
-  clear: both;
-}
-
-.navbar .container {
-  width: auto;
 }
 
 header {
-  padding-bottom: 12px;
-  border-bottom: 1px solid rgb(231,231,231);
+  padding: 32px 0;
+  border-bottom: 1px solid var(--primary);
+}
+
+header > hgroup {
+  display: flex;
 }
 
 header h1 {
+  color: var(--primary);
   margin: 0;
   padding: 0 10px 0 0;
-  float: left;
   font-size: 32px;
+  font-family: monospace;
+  font-weight: normal;
+  display: inline-block;
 }
 
 header h2 {
+  display: inline-block;
   margin: 0;
   padding: 13px 0 0 0;
   font-size: 18px;
@@ -67,20 +48,19 @@ header h2 {
 }
 
 header ul {
-  padding: 6px 0 0 0;
-  margin: 0;
+  padding: 0;
+  display: flex;
 }
 
 header li {
-  float: left;
-  padding: 0 24px 0 0;
+  padding: 0 16px 0 0;
   list-style: none;
   font-size: 14px;
 }
 
 header li a {
   text-decoration: none;
-  color: rgb(150,150,150);
+  color: var(--secondary);
 }
 
 header li.selected a {
@@ -88,30 +68,31 @@ header li.selected a {
   color: black;
 }
 
-.content {
-  border-bottom: 3px solid rgb(231,231,231);
+main {
+  border-bottom: 3px solid var(--primary);
   padding-bottom: 32px;
   margin-bottom: 12px;
   line-height: 1.33;
+  color: var(--text)
 }
 
-.content h1 {
+main h1 {
   font-size: 2.5em;
 }
 
-.content a {
+main a {
   text-decoration: none;
-  color: rgb(47,107,180);
+  color: var(--secondary);
 }
 
 footer {
   font-size: 12px;
-  color: rgb(180,180,180);
+  color: var(--text);
   margin-bottom: 64px;
 }
 
 footer a {
-  color: rgb(140,140,140);
+  color: var(--secondary);
   text-decoration: none; 
 }
 

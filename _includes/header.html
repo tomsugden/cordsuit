@@ -6,13 +6,13 @@
   <link rel="stylesheet" href="{{ site.url }}/styles.css">
 </head>
 <body>
-  <header class="navbar container">
-    <hgroup class="clearfix">
-      <h1>Cord Suit</h1>
-      <h2>Silver Jews Archive</h2>
+  <header>
+    <hgroup>
+      <h1>The Corduroy Suit</h1>
+      <h2>a Silver Jews archive</h2>
     </hgroup>
     <nav>
-      <ul class="nav">
+      <ul>
         {% for n in site.nav %}
           <li class="{% if page.category == n %}selected{% endif %}">
             <a href="{{ site.url }}/{{ n }}">{{ n }}</a>
@@ -21,4 +21,4 @@
       </ul>
     </nav>
   </header>
-  <div role="main" class="container content">
+  <main>

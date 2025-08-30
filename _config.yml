@@ -1,6 +1,8 @@
 url: https://tomsugden.github.io/cordsuit
 
-exclude: _scripts, _data
+exclude:
+  - _scripts
+  - _data
 
 nav:
   - articles
