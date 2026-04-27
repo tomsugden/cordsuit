@@ -1,7 +1,7 @@
 ---
 venue: Tramway Theatre
 location: Glasgow
-date: 28th April 2006
+display_date: 28th April 2006
 setlist:
   - Trains Across The Sea
   - New Orleans

@@ -7,7 +7,7 @@ source:
   name: Option Magazine #59
 author:
   name: Brad Lips
-date: November 1994
+display_date: November 1994
 ---
 
 "There's something special about recording at home," muses Dave Berman of the Silver Jews, a loosely configured "band" best known for including two members of Pavement. "At home you get accidents. On our first 7-inch (Dime Map of the Reef), the second side has no drums for the first two minutes. But that's only because Bob Nastanovich wasn't home yet from his bus-driving job. So Steve Malkmus and I just started playing and then he came home, got a beer, popped it open, and then joined in. All of that is contained in the recording."

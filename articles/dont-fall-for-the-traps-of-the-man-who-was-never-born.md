@@ -8,7 +8,7 @@ author:
 source:
   name: Tally Ho Sulky
   url: http://5redpandas.tumblr.com/
-date: October 1997
+display_date: October 1997
 ---
 
 ## An introduction to an interview with poet and Silver Jew, David Berman  

@@ -1,0 +1,43 @@
+---
+layout: base.njk
+---
+<article class="gig">
+  <header class="article-header">
+    <p class="eyebrow"><a href="/gigs/">Gigs</a></p>
+    <h1>{{ venue }}</h1>
+    <p class="subtitle">{{ location }} &middot; {{ display_date }}</p>
+
+    {% if source %}
+    <p class="meta">
+      From
+      {% if source.url %}
+        <a href="{{ source.url }}">{{ source.name }}</a>
+      {% else %}
+        {{ source.name }}
+      {% endif %}.
+    </p>
+    {% endif %}
+  </header>
+
+  {% if setlist %}
+  <section class="setlist">
+    <h2>Setlist</h2>
+    <ol>
+      {% for song in setlist %}<li>{{ song }}</li>{% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+
+  {% if encore %}
+  <section class="setlist setlist-encore">
+    <h3>Encore</h3>
+    <ol>
+      {% for song in encore %}<li>{{ song }}</li>{% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+</article>

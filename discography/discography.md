@@ -2,6 +2,8 @@
 title: "Discography"
 category: discography
 layout: article
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 

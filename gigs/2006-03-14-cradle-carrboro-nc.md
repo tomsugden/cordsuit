@@ -1,7 +1,7 @@
 ---
 venue: Cat's Cradle
 location: Carrboro NC
-date: 14th March 2006
+display_date: 14th March 2006
 category: gigs
 layout: gig
 setlist:

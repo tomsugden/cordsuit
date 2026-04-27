@@ -1,35 +1,29 @@
 ---
-title: Bibliography
+title: Writing
 category: bibliography
 layout: plain
 ---
 
 ## Books
 
-<ul>
-{% for p in site.pages %}
-  {% if p.category == page.category and p.title != page.title %}
-    <li><a href="{{ site.url}}{{ p.url }}">{{ p.title }}</a></li>
-  {% endif %}
-{% endfor %}
+<ul class="listing-list">
+{%- for p in collections.bibliography %}
+  <li><a href="{{ p.url }}">{{ p.data.title or p.fileSlug }}</a></li>
+{%- endfor %}
 </ul>
 
 ## Poems
 
-<ul>
-{% for p in site.pages %}
-  {% if p.category == 'poems' and p.layout != 'category' %}
-    <li><a href="{{ site.url}}{{ p.url }}">{{ p.title }}</a></li>
-  {% endif %}
-{% endfor %}
+<ul class="listing-list">
+{%- for p in collections.poems %}
+  <li><a href="{{ p.url }}">{{ p.data.title or p.fileSlug }}</a></li>
+{%- endfor %}
 </ul>
 
-## Misc. Writing
+## Other Writing
 
-<ul>
-{% for p in site.pages %}
-  {% if p.category == 'writing' and p.layout != 'cateogry' %}
-    <li><a href="{{ site.url}}{{ p.url }}">{{ p.title }}</a></li>
-  {% endif %}
-{% endfor %}
+<ul class="listing-list">
+{%- for p in collections.writing %}
+  <li><a href="{{ p.url }}">{{ p.data.title or p.fileSlug }}</a></li>
+{%- endfor %}
 </ul>

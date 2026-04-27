@@ -1,7 +1,7 @@
 ---
 venue: The 40 Watt
 location: Athens, GA
-date: 10th March 2006
+display_date: 10th March 2006
 setlist:
   - Random Rules
   - Smith and Jones Forever

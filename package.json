@@ -1,0 +1,14 @@
+{
+  "name": "cordsuit",
+  "version": "2.0.0",
+  "private": true,
+  "description": "The Cord Suit — a Silver Jews archive",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

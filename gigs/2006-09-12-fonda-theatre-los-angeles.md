@@ -1,7 +1,7 @@
 ---
 venue: Fonda Theatre
 location: Los Angeles
-date: 12th Sept 2006
+display_date: 12th Sept 2006
 setlist:
   - Trains_Across_the_Sea
   - Getting_Back_Into_You

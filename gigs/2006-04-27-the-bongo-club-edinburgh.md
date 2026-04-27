@@ -1,7 +1,7 @@
 ---
 venue: The Bongo Club
 location: Edinburgh
-date: 27th April 2006
+display_date: 27th April 2006
 setlist:
   - Random Rules
   - Smith and Jones Forever

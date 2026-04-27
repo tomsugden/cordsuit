@@ -7,7 +7,7 @@ author:
   url: http://boswestblog.com
 source:
   name: Unknown
-date: 29 September 2006
+display_date: 29 September 2006
 ---
 
 In an epic cross-hemisphere trek, writer Ben Oswest treads the long road between Cape Town and Wales to consummate a 13-year, 20,000-mile long-distance love affair with the Silver Jews.

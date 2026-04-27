@@ -2,6 +2,8 @@
 title: "Reviews"
 category: reviews
 layout: article
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 

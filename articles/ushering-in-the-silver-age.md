@@ -4,7 +4,7 @@ source:
   name: Dolomite Magazine
 author:
   name: Charles Austin
-date: 18th February 1999
+display_date: 18th February 1999
 category: articles
 layout: article
 ---

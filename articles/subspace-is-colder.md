@@ -6,7 +6,7 @@ author:
   name: Jo Cline
 source:
   name: C-Ville Weekly
-date: October 1996
+display_date: October 1996
 ---
 
 Mention Albemarle County resident David Berman among indie rock cognoscenti and you'll get instant recognition. But most people around here just say "Isn't he that tall, cool guy? "The Silver Jews is Berman's band, founded in 1990 when he shared a Hoboken apartment with Steve Malkmus and Bob Nastanovich, both erstwhile Charlottesvillians via UVA, and both better known as M.O.P.: Members of Pavement. Their music is pensive and tuneful, with no real pyrotechnics. It's almost folksy: simple music about important things which inspires you to sing along.

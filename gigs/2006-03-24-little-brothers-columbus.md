@@ -1,7 +1,7 @@
 ---
 venue: Little Brothers
 location: Columbus OH
-date: 24th March 2006
+display_date: 24th March 2006
 setlist:
   - Black and Brown Blues
   - Animal Shapes

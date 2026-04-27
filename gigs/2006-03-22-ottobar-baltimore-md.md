@@ -1,7 +1,7 @@
 ---
 venue: Ottobar
 location: Baltimore MD
-date: 22nd March 2006
+display_date: 22nd March 2006
 source: 
   name: Soi Disantra
   url: http://soidisantra.typepad.com/soi_disantra/2006/03/rock_to_baltimo.html

@@ -1,0 +1,15 @@
+---
+layout: base.njk
+---
+<article class="poem">
+  <header class="article-header">
+    <p class="eyebrow"><a href="/poems/">Poems</a></p>
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+
+  <p class="copyright">&copy; David Berman</p>
+</article>

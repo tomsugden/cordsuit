@@ -1,0 +1,25 @@
+{%- set sections = [
+  { slug: "articles",     label: "Articles" },
+  { slug: "discography",  label: "Discography" },
+  { slug: "songs",        label: "Songs" },
+  { slug: "tablature",    label: "Tablature" },
+  { slug: "gigs",         label: "Gigs" },
+  { slug: "bibliography", label: "Writing" },
+  { slug: "drawings",     label: "Drawings" },
+  { slug: "news",         label: "News" }
+] -%}
+<header>
+  <hgroup>
+    <h1><a href="/">The Cord Suit</a></h1>
+    <p class="tagline">a Silver Jews archive</p>
+  </hgroup>
+  <nav>
+    <ul>
+      {%- for s in sections %}
+      <li{% if category == s.slug %} class="selected"{% endif %}>
+        <a href="/{{ s.slug }}/">{{ s.label }}</a>
+      </li>
+      {%- endfor %}
+    </ul>
+  </nav>
+</header>
