@@ -6,7 +6,7 @@ source:
   name: Chapter 57
 author:
   name: M.Edwards
-date: Fall of 1996
+display_date: Fall of 1996
 ---
 
 In the Fall of 1996 I was employed as a seafood clerk at a supermarket, I was also listening to the Natural Bridge quite a bit. I had the idea to interview David for a zine I was planning on putting out back then. I wrote out a group of questions while standing behind the seafood counter (the smell of week old perch in my nostrils and lack of sleep may have had something to do with some of these questions) and sent them off. Not long after I was surprised to see a letter from David; he had replied to every question and sent a photo to boot! It always bothered me that the zine never saw the light of day and David's generosity went unrewarded. I hope to mend the situation by publishing it here for the first time in honor of the release of Tanglewood Numbers. - M. Edwards

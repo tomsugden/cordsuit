@@ -1,7 +1,7 @@
 ---
 venue: Webster Hall
 location: New York NY
-date: 18th March 2006
+display_date: 18th March 2006
 setlist:
   - I'm Getting Back Into Getting Back Into You
   - Sometimes a Pony Gets Depressed

@@ -7,7 +7,7 @@ source:
   name: Cool Beans! #4
 author:
   name: Matt Kelly
-date: 23rd Septempber 1994
+display_date: 23rd Septempber 1994
 ---
 
 CB: Where does the name Silver Jews come from?

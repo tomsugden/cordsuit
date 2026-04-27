@@ -1,7 +1,7 @@
 ---
 venue: Webster Hall
 location: New York NY
-date: 17th March 2006
+display_date: 17th March 2006
 setlist:
   - Slow Education
   - Smith and Jones

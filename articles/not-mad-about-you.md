@@ -2,7 +2,7 @@
 title: Not Mad About You
 author:
   name: Amy Sohn
-date: October 14-20, 1998
+display_date: October 14-20, 1998
 source:
   name: NYM Press Arts & Listings
 category: articles

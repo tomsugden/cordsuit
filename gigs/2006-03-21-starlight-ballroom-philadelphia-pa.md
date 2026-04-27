@@ -1,7 +1,7 @@
 ---
 venue: Starlight Ballroom
 location: Philadelphia PA
-date: 21st March 2006
+display_date: 21st March 2006
 setlist:
   - Inside the Golden Days of Missing You
   - Animal Shapes

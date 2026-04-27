@@ -1,7 +1,7 @@
 ---
 venue: Middle East Club
 location: Cambridge MA
-date: 19th March 2006
+display_date: 19th March 2006
 setlist:
   - Black and Brown Blues
   - Animal Shapes

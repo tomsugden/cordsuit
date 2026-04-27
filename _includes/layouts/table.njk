@@ -1,0 +1,29 @@
+---
+layout: base.njk
+---
+<section class="index">
+  <header class="article-header">
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="prose">{{ content | safe }}</div>
+
+  <table class="listing">
+    <thead>
+      <tr>
+        <th class="col-title">Title</th>
+        <th class="col-author">Author</th>
+        <th class="col-source">Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for p in collections[category] %}
+      <tr>
+        <td><a href="{{ p.url }}">{{ p.data.title }}</a></td>
+        <td>{% if p.data.author and p.data.author.name %}{{ p.data.author.name }}{% endif %}</td>
+        <td>{% if p.data.source and p.data.source.name %}{{ p.data.source.name }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>

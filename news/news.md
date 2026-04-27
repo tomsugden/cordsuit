@@ -2,6 +2,8 @@
 title: "News"
 category: news
 layout: article
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 Welcome to the Corduroy Suit, a website dedicated to the music, poetry and writing of D.C. Berman and his band, Silver Jews. This website is a public wiki, which means visitors are encouraged to edit and update the content themselves. Please read the ((Contribution Guidelines)) for more details.

@@ -6,7 +6,7 @@ source:
   name: Pinky-Poo
 author:
   name: Unknown
-date: 1996
+display_date: 1996
 ---
 
 Dans la galaxie Pavement, Silver Jews n'est pas seulement une récréation musicale et encore moins un side-band de Stephen Malkmus. C'est David Berman - ami/collaborateur/inspirateur de Pavement depuis leurs débuts qui est aux commandes de ce groupe assez typique de l'esprit du label Drag City. Pour ajouter à la confusion, c'est Steve West, batteur des deux groupes (avec Bob Nastanovich) qui répond à nos questions. "A quand remontent les premiers enregistrements des Silver Jews ? "//David et Stephen se sont connus sur les bancs de l'université de Virginie. Ils jouaient tous dans un groupe qui s'appelait Ectoslavia.. Je crois que c'est la que tout a commencé. Ils sont ensuite montés a New York, où je travaillais. et nous nous sommes rencontrés. L'activité du groupe se résumait surtout â des répétitions assez sauvages dans l'appartement de 

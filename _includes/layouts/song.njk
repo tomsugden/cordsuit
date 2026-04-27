@@ -1,0 +1,15 @@
+---
+layout: base.njk
+---
+<article class="song">
+  <header class="article-header">
+    <p class="eyebrow"><a href="/songs/">Songs</a></p>
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="lyrics prose">
+    {{ content | safe }}
+  </div>
+
+  <p class="copyright">&copy; D.C. Berman, Civil Jar Music / BMI</p>
+</article>

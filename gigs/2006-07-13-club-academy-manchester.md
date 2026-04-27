@@ -1,7 +1,7 @@
 ---
 venue: Club Academy
 location: Manchester
-date: 13th July 2006
+display_date: 13th July 2006
 setlist:
   - Black and Brown Blues  
   - Animal Shapes

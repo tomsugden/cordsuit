@@ -1,7 +1,7 @@
 ---
 venue: Double Door
 location: Chicago IL
-date: 14th April 2006
+display_date: 14th April 2006
 setlist:
   - Trains Across the Sea
   - How to Rent a Room

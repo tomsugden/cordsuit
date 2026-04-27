@@ -6,7 +6,7 @@ author:
   name: Unknown
 source:
   name: Verbal Rocket
-date: 2007
+display_date: 2007
 ---
 
 _Hi there, introduce yourself and your band please?_

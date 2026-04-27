@@ -1,7 +1,7 @@
 ---
 venue: The Earl
 location: Atlanta GA
-date: 11th March 2006
+display_date: 11th March 2006
 setlist: 
   - Black and Brown Blues
   - Random Rules

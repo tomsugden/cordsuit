@@ -2,7 +2,7 @@
 title: Meet the Silver Jews
 source:
   name: Addicted to Noise
-date: October 96
+display_date: October 96
 author: 
   name: Chris Nelson
 category: articles

@@ -8,7 +8,7 @@ source:
   url: http://www.popmatters.com
 author:
   name: Matt Gonzales
-date: 1st November 2005
+display_date: 1st November 2005
 ---
 
 About 10 years ago I bought The Arizona Record by the Silver Jews because it listed R. Nastanovich (Bob Nastanovich, the percussionist for Pavement) as one of the members, along with D.C. Berman and Hazel Figurine. At the time I was hot for anything remotely Pavement-related, and was later elated when I figured out that guitarist Hazel Figurine was really Steve Malkmus. The record itself sounded more or less like a folkier Pavement, with Malkmus singing backing vocals and some lead vocals on every song. It wasn't easy listening; it sounded as if they'd sat a boom box down in the room and pressed record before launching into each song -- which is exactly what they did.

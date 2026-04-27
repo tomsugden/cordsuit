@@ -1,0 +1,37 @@
+---
+layout: base.njk
+---
+<article class="article">
+  <header class="article-header">
+    <h1>{{ title }}</h1>
+    {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+
+    {% if author or source or display_date %}
+    <p class="meta">
+      {% if author %}
+        By
+        {% if author.url %}
+          <a href="{{ author.url }}">{{ author.name }}</a>
+        {% else %}
+          {{ author.name }}
+        {% endif %}.
+      {% endif %}
+
+      {% if source %}
+        Originally appeared in
+        {% if source.url %}
+          <a href="{{ source.url }}">{{ source.name }}</a>
+        {% else %}
+          {{ source.name }}
+        {% endif %}.
+      {% endif %}
+
+      {% if display_date %}{{ display_date }}.{% endif %}
+    </p>
+    {% endif %}
+  </header>
+
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+</article>

@@ -1,0 +1,29 @@
+---
+layout: base.njk
+---
+<section class="index gigs-index">
+  <header class="article-header">
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="prose">{{ content | safe }}</div>
+
+  <table class="listing">
+    <thead>
+      <tr>
+        <th class="col-venue">Venue</th>
+        <th class="col-location">Location</th>
+        <th class="col-date">Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for p in collections.gigsByDate %}
+      <tr>
+        <td><a href="{{ p.url }}">{{ p.data.venue }}</a></td>
+        <td>{{ p.data.location }}</td>
+        <td>{{ p.data.display_date }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>

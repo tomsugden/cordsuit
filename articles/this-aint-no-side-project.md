@@ -6,7 +6,7 @@ source:
   name: Fizz Magazine
 author:
   name: Marc Hawthorne
-date: November 94 
+display_date: November 94 
 ---
 
 It's nice to have friends in high places, but there's always a catch. Just ask David Berman, lead singer/songwriter and founding member of the Silver Jews. When he start the band with a couple of college buddies in the late 80's, nobody gave the band much thought. But now that the others two members of the Silver Jews - Steve Malkmus and Bob Nastanovich - have made quite a name for themselves with the almighty Pavement, people have started to take notice. Problem is, people won't stop comparing them with Pavement. Berman figures it's inevitable, but the popular misconception that the Silver Jews is some sort of Pavement side project is really starting to bug him. Nevertheless, the band just recently released their first full-length album, entitled Starlite Walker, on Drag City. Eleven songs full of quirky melodies, unorthodox lyrics and folk-driven passion, Starlite Walker is sure to set people straight about the ability of the Silver Jew's material to stand proudly on its own. But don't expect the Silver J. train to come rumbling through your town anytime soon, because a live band they are not. This interview took place sometime in the afternoon during the middle of last November (1994). Though very soft-spoken, the head Jew had quite a bit to say.

@@ -1,7 +1,7 @@
 ---
 venue: Blind Pig
 location: Ann Arbor MI
-date: 25th March 2006
+display_date: 25th March 2006
 setlist:
   - Pet Politics
   - Getting Back Into Getting Back Into You

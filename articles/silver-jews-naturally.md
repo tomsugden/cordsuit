@@ -1,6 +1,6 @@
 ---
 title: Silver Jews, Naturally
-date: 5th October 1996
+display_date: 5th October 1996
 category: articles
 layout: article
 source:

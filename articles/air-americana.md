@@ -7,7 +7,7 @@ source:
   url: http://www.sfbg.com
 author: 
   name: Ari Messer
-date: September, 2006
+display_date: September, 2006
 ---
 
 Madonna and her scantily-clad kabbalah practice may have been ousted by the Russian Orthodox Church, but rest assured, oh ye faithful, the Silver Jews are finally coming to San Francisco. The band, often mislabeled as a Pavement side project, actually coalesced before Pavement, though the two backstories share a history of caustic revelation.

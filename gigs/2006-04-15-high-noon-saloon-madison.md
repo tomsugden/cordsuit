@@ -1,7 +1,7 @@
 ---
 venue: 
 location: 
-date: 
+display_date: 
 setlist:
 encore:
 category: gigs

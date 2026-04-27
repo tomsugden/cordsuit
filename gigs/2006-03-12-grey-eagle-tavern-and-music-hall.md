@@ -1,7 +1,7 @@
 ---
 venue: Grey Eagle Tavern &amp; Music Hall
 location: Asheville NC
-date: 12th March 2006
+display_date: 12th March 2006
 setlist:
   - Slow Education  
   - Animal Shapes

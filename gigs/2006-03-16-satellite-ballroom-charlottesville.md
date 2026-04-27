@@ -1,7 +1,7 @@
 ---
 venue: Satellite Ballroom
 location: Charlottesville VA
-date: 16th March 2006
+display_date: 16th March 2006
 setlist:
   - Black and Brown Blues
   - Animal Shapes

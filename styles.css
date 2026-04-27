@@ -1,111 +1,395 @@
+/* ---------------------------------------------------------------------------
+   The Cord Suit
+   A Silver Jews archive. Palette inspired by Silver Jews' 1996 album
+   The Natural Bridge: deep forest greens, warm sienna, ochre highlights
+   and a paper-cream linen ground.
+   --------------------------------------------------------------------------- */
+
 :root {
-  --bg: #ebede9;
-  --text: #232323;
-  --primary: #164000;
-  --secondary: #522915;
-  --highlight: #f9a602;
+  --bg:        #efe9d9;   /* cream / album sleeve paper */
+  --bg-soft:   #e6dfca;   /* slight tonal shift for tables, etc. */
+  --rule:      #cdbf9f;   /* faded straw rule */
+  --ink:       #2a2a26;   /* warm charcoal body text */
+  --muted:     #6f6a5b;   /* secondary text */
+  --primary:   #264a2b;   /* deep forest green */
+  --primary-2: #173318;   /* darker green for hover */
+  --secondary: #8a3a1a;   /* sienna / earth */
+  --accent:    #c89e3c;   /* ochre / mustard */
+
+  --serif:  Georgia, "Iowan Old Style", "Hoefler Text", "Times New Roman", serif;
+  --mono:   "Courier New", ui-monospace, Menlo, Consolas, monospace;
+  --measure: 36rem;
 }
 
-html,
-body {
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
   padding: 0;
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: var(--bg);
-}
-
-header, main, footer {
-  width: 940px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-header {
-  padding: 32px 0 0 0;
-  border-bottom: 1px solid var(--primary);
-}
-
-header > hgroup {
-  display: flex;
-}
-
-header h1 {
-  color: var(--primary);
-  margin: 0;
-  padding: 0 24px 0 0;
-  font-size: 32px;
-  font-family: monospace;
-  font-weight: normal;
-  display: inline-block;
-}
-
-header h2 {
-  display: inline-block;
-  margin: 0;
-  padding: 13px 0 0 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--serif);
   font-size: 18px;
-  font-weight: normal;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
-header ul {
-  padding: 0;
+body {
   display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-header li {
-  padding: 0 16px 0 0;
-  list-style: none;
-  font-size: 14px;
-}
+/* ---------- Layout shell ------------------------------------------------- */
 
-header li a {
-  text-decoration: none;
-  color: var(--secondary);
-}
-
-header li.selected a {
-  text-decoration: none;
-  color: black;
+header,
+main,
+footer {
+  width: 100%;
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
 }
 
 main {
+  flex: 1 0 auto;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+/* ---------- Site header -------------------------------------------------- */
+
+header {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   border-bottom: 1px solid var(--primary);
-  padding-bottom: 32px;
-  margin-bottom: 12px;
-  line-height: 1.33;
-  color: var(--text)
 }
 
-main h1 {
-  font-size: 2.5em;
-  font-weight: normal;
+header hgroup {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
-main h2 {
-  font-size: 1.5em;
-  font-weight: normal;
+header h1 {
+  margin: 0;
+  font-family: var(--mono);
+  font-weight: 400;
+  font-size: 1.85rem;
+  letter-spacing: 0.02em;
+  color: var(--primary);
 }
 
-main a {
+header h1 a {
+  color: inherit;
   text-decoration: none;
-  color: var(--secondary);
 }
+
+header .tagline {
+  margin: 0;
+  font-style: italic;
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+header nav {
+  margin-top: 0.85rem;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1.25rem;
+  font-size: 0.95rem;
+}
+
+header nav li { padding: 0; }
+
+header nav a {
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+}
+
+header nav a:hover { border-bottom-color: var(--secondary); }
+
+header nav .selected a {
+  color: var(--primary-2);
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Footer ------------------------------------------------------- */
 
 footer {
-  font-size: 12px;
-  color: var(--text);
-  margin-bottom: 64px;
+  font-size: 0.85rem;
+  color: var(--muted);
+  border-top: 1px solid var(--rule);
+  padding-top: 1rem;
+  padding-bottom: 2.5rem;
 }
 
 footer a {
   color: var(--secondary);
-  text-decoration: none; 
+  text-decoration: none;
+  border-bottom: 1px dotted var(--rule);
 }
 
-thead {
-  border-bottom: 1px solid rgb(231,231,231);
+footer a:hover {
+  color: var(--primary-2);
+  border-bottom-color: var(--secondary);
 }
 
-th {
+/* ---------- Article-style pages ----------------------------------------- */
+
+.article-header { margin-bottom: 2rem; }
+
+.article-header .eyebrow {
+  margin: 0 0 0.5rem;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.article-header .eyebrow a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+
+.article-header h1 {
+  margin: 0 0 0.4rem;
+  font-weight: 400;
+  font-size: 2.25rem;
+  line-height: 1.15;
+  color: var(--primary);
+  letter-spacing: -0.005em;
+}
+
+.article-header .subtitle {
+  margin: 0;
+  font-style: italic;
+  color: var(--muted);
+  font-size: 1.1rem;
+}
+
+.article-header .meta {
+  margin: 0.6rem 0 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* ---------- Prose -------------------------------------------------------- */
+
+.prose { max-width: var(--measure); }
+
+.prose h2 {
+  margin: 2.25rem 0 0.75rem;
+  font-weight: 400;
+  font-size: 1.35rem;
+  color: var(--primary);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+}
+
+.prose h3 {
+  margin: 1.75rem 0 0.5rem;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: var(--primary-2);
+}
+
+.prose p { margin: 0 0 1.1rem; }
+
+.prose a {
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+
+.prose a:hover {
+  color: var(--primary-2);
+  border-bottom-color: var(--secondary);
+}
+
+.prose img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border: 1px solid var(--rule);
+  background: var(--bg-soft);
+  padding: 4px;
+}
+
+.prose blockquote {
+  margin: 1.25rem 0;
+  padding: 0.25rem 1rem;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+  font-style: italic;
+}
+
+.prose ul, .prose ol { padding-left: 1.5rem; }
+.prose li { margin: 0.2rem 0; }
+
+.prose code, .prose pre {
+  font-family: var(--mono);
+  font-size: 0.95em;
+}
+
+.prose pre {
+  background: var(--bg-soft);
+  border: 1px solid var(--rule);
+  padding: 0.85rem 1rem;
+  overflow-x: auto;
+  line-height: 1.45;
+}
+
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 2rem 0;
+}
+
+/* ---------- Songs & poems ----------------------------------------------- */
+
+.song .lyrics,
+.poem .prose {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.song .copyright,
+.poem .copyright {
+  margin-top: 2.5rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* ---------- Gigs --------------------------------------------------------- */
+
+.gig .setlist {
+  margin: 1.75rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--bg-soft);
+  border: 1px solid var(--rule);
+}
+
+.gig .setlist h2,
+.gig .setlist h3 {
+  margin-top: 0;
+  border: none;
+  padding: 0;
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
+
+.gig .setlist ol {
+  margin: 0.4rem 0 0;
+  padding-left: 1.5rem;
+}
+
+.gig .setlist li { margin: 0.15rem 0; }
+
+.gig .setlist-encore { background: transparent; }
+
+/* ---------- Index pages (lists & tables) -------------------------------- */
+
+.listing-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.listing-list li {
+  break-inside: avoid;
+  padding: 0.25rem 0;
+  border-bottom: 1px dotted var(--rule);
+}
+
+.listing-list a {
+  color: var(--primary-2);
+  text-decoration: none;
+}
+
+.listing-list a:hover { color: var(--secondary); }
+
+table.listing {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1.25rem;
+  font-size: 0.95rem;
+}
+
+table.listing th {
   text-align: left;
+  font-family: var(--mono);
+  font-weight: 400;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 0.4rem 0.6rem 0.4rem 0;
+  border-bottom: 1px solid var(--primary);
+}
+
+table.listing td {
+  padding: 0.4rem 0.6rem 0.4rem 0;
+  border-bottom: 1px dotted var(--rule);
+  vertical-align: top;
+}
+
+table.listing a {
+  color: var(--primary-2);
+  text-decoration: none;
+}
+
+table.listing a:hover { color: var(--secondary); }
+
+/* ---------- Home --------------------------------------------------------- */
+
+.home .hero {
+  text-align: center;
+  margin: 1rem 0 2.5rem;
+}
+
+.home .hero h1 {
+  margin: 0;
+  font-family: var(--mono);
+  font-weight: 400;
+  font-size: 2.6rem;
+  color: var(--primary);
+}
+
+.home .hero .tagline {
+  margin: 0.25rem 0 0;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.home .prose { margin: 0 auto; }
+
+/* ---------- Small screens ------------------------------------------------ */
+
+@media (max-width: 36rem) {
+  body { font-size: 17px; }
+  header { padding-top: 1.25rem; }
+  header h1 { font-size: 1.5rem; }
+  .article-header h1 { font-size: 1.7rem; }
+  .listing-list { columns: 1; }
+  table.listing { font-size: 0.9rem; }
 }

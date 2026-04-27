@@ -4,7 +4,7 @@ author:
   name: Mark Richard-San
 source:
   name: Pitchfork Media
-date: January 2002
+display_date: January 2002
 category: articles
 layout: article
 ---
